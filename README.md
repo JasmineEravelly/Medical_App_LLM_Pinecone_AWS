@@ -1,0 +1,1 @@
+# Medical_App_LLM_Pinecone_AWS
